@@ -1,26 +1,46 @@
- <h1 align="center">Hi 👋, I'm Muhammad ALi Shahid</h1>
-<h3 align="center">A passionate front-end Developer from Pakistan</h3>
+<h1 align="center">👋 Hi, I'm ALi Shahid</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-alishahid&label=Profile%20views&color=0e75b6&style=flat" alt="m-alishahid" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-alishahid" alt="m-alishahid" /></a> </p>
-
-- 🔭 I’m currently working on **Typescript NextJs Python and much more**
-
-- 🌱 I’m currently learning **Generative AI Technologies**
-
-- 💬 Ask me about **Html Css Javascript Typescript Bootstrap**
-
-- 📫 How to reach me **alishahids519@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/codecraftali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codecraftali" height="30" width="40" /></a>
+<p align="center">
+  <b>Frontend Developer from Pakistan</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend%20Developer-blue.svg" alt="Frontend Developer">
+  <img src="https://img.shields.io/badge/Location-Pakistan-green.svg" alt="Location">
+  <img src="https://img.shields.io/badge/Code-Html%2C%20Css%2C%20Javascript%2C%20Bootstrap%2C%20Typescript-orange.svg" alt="Skills">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-alishahid&show_icons=true&locale=en&layout=compact" alt="m-alishahid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-alishahid&show_icons=true&locale=en" alt="m-alishahid" /></p>
+<h2 align="center">💻 Skills</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" alt="TypeScript">
+</p>
+
+
+
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.instagram.com/codecraftali" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+<p align="center">Feel free to reach out! I'm always open to discussing new projects or ideas. Let's create something amazing together!</p>
+
+
+
+<h2 align="center">⚡ Fun Fact</h2>
+
+<p align="center">
+  When I'm not coding, I enjoy exploring new tech trends and refining my development skills.
+</p>
+
+
+
+<p align="center">Made with 💻 by <strong>ALi Shahid</strong></p>
