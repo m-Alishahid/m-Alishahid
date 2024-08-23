@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad ALi Shahid</h1>
+ <h1 align="center">Hi 👋, I'm Muhammad ALi Shahid</h1>
 <h3 align="center">A passionate front-end Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-alishahid&label=Profile%20views&color=0e75b6&style=flat" alt="m-alishahid" /> </p>
@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-alishahid&show_icons=true&locale=en&layout=compact" alt="m-alishahid" /></p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-alishahid&show_icons=true&locale=en" alt="m-alishahid" /></p>
