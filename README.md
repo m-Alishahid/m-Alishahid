@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Html Css Javascript Typescript Bootstrap**
 
-- 📫 How to reach me **alishahids519@gmail.com**  0r Dm **codecraftali**
+- 📫 How to reach me **alishahids519@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
