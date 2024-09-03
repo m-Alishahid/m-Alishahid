@@ -1,11 +1,4 @@
-import Typewriter from 'typewriter-effect';
-<Typewriter
-  options={{
-    strings: ['Hello', 'World'],
-    autoStart: true,
-    loop: true,
-  }}
-/>
+
 <h1 align="center">Hi 👋, I'm Muhammad ALi Shahid</h1>
 <h3 align="center">A passionate front-end Developer from Pakistan</h3>
 
