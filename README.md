@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Html Css Javascript Typescript Bootstrap**
 
-- 📫 Reach me via **alishahids519@gmail.com** **https://instagram.com/codecraftali **
+- 📫 Reach me via **alishahids519@gmail.com** https://instagram.com/codecraftali 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
