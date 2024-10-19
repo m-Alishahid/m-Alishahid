@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio website](simple-portfolio-by-m-a-s.vercel.app)
+- 🔭 I’m currently working on [Portfolio website](https://github.com/m-Alishahid/Simple-portfolio-.git)
 
 - 🌱 I’m currently learning **Generative AI technologies like Python,NextJs and much more**
 
