@@ -1,3 +1,6 @@
+# 👋 Hello, I am Muhammad Ali Shahid aka **CodeCraftAli**  
+### 💻 Frontend Developer & 🎓 Agentic AI Engineering Student from Pakistan 
+
 # 💫 About Me:
 - 🌱 Currently learning **Agentic AI Engineering** (GIAIC)  <br>- 💻 Experienced in **React, Next.js, Tailwind CSS, TypeScript**  <br>- 📱 Exploring **Mobile App Development** with React Native & Flutter  <br>- 🤖 Interested* in **Agentic AI & Automation Systems**  <br>- 🔭 Completed multiple projects including a **Resume Builder App**, **Inventory System**, and a **Car Rental Marketplace**  <br>- 🎯 Goal: Build my own **Software Company* after freelancing journey  
 
