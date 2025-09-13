@@ -1,4 +1,4 @@
-# 👋 Hello, I am Muhammad Ali Shahid aka **CodeCraftAli**  
+# 👋 Hello, I am Muhammad Ali Shahid aka **codecraftali**  
 ### 💻 Frontend Developer & 🎓 Agentic AI Engineering Student from Pakistan 
 
 # 💫 About Me:
